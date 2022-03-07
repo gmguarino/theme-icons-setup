@@ -14,8 +14,11 @@ $SCRIPT_PATH/icons.sh
 # Install terminal theme
 $SCRIPT_PATH/terminal_theme.sh
 
+# Install zsh
+$SCRIPT_PATH/install_zsh.sh
+
 # Install desktop theme
 $SCRIPT_PATH/theme.sh
 
 echo "#####################################################"
-echo DONE
+echo "SETUP COMPLETED"
